@@ -1,0 +1,2 @@
+echo Compiling C++ using g++ -lpthread -std=c++17 -Wall -pedantic-errors
+g++  -lpthread -std=c++17 -Wall -pedantic-errors $1 $2 $3
